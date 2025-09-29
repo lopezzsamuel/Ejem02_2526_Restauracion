@@ -1,3 +1,6 @@
+Propietario del proyecto: Samuel Lopez
+
+
 # Ejem02_2526_Restauracion
 
 # H1
